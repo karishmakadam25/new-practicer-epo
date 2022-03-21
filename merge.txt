@@ -1,1 +1,6 @@
+HEAD
+this is in merge .txt file
+Appended som
 replacing conent merge .txt file
+feature
+sdfdsf
