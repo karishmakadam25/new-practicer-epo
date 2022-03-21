@@ -1,2 +1,5 @@
+HEAD
 this is in merge .txt file
-Appended some lines
+Appended som
+replacing conent merge .txt file
+feature
