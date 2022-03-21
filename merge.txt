@@ -1,1 +1,2 @@
 this is in merge .txt file
+Appended some lines
